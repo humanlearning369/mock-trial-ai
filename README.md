@@ -92,22 +92,33 @@ Key Requirements:
 
 This means: If you deploy LawCourtIQ as a web service, you must make your source code (including any modifications) available to your users under the same AGPL license.
 
-*** Commercial License
+*** Commercial License (Core Public Functionality Only)
 
-For organizations that cannot comply with AGPL requirements, we offer commercial licensing:
+For organizations that cannot comply with AGPL requirements, we offer commercial licensing for the core functionality released in this repository:
+
 Commercial License Benefits:
 
-•	Proprietary Use: Keep your modifications private
+    Proprietary Use: Keep your modifications private
 
-•	No Source Disclosure: No requirement to share code with users
+    No Source Disclosure: No requirement to share code with users
 
-•	SaaS Deployment: Deploy as commercial service without AGPL obligations
+    SaaS Deployment: Deploy as a commercial service without AGPL obligations
 
-•	Enterprise Support: Professional support and training
+    Enterprise Support: Professional support and training
 
-•	Trained Models: Access to production-ready LegalBERT models
+Important: This commercial license applies only to the core functionality published in this repository. It does not include access to advanced modules such as:
 
-•	Custom Development: Tailored features and integrations
+    VR integrations
+
+    Analytics dashboards (Power BI, etc.)
+
+    Trained LegalBERT models
+
+    Claude/OpenAI routing logic
+
+    PACER/USPTO ingestion pipelines
+
+Access to these advanced modules requires a separate commercial agreement under custom licensing terms.
 
 Commercial License Terms:
 
