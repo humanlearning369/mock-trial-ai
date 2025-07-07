@@ -92,7 +92,10 @@ Commercial License Terms:
 
 *** Contact for Commercial Licensing (E-Mail for faster response):
 •	Email: mocktrialapp@gmail.com
+
 •	Phone: 347-903-9048
+
 •	LinkedIn: @frankgarcia1
+
 •	Subject: "LawCourtIQ Commercial License Inquiry"
 
