@@ -13,6 +13,8 @@ Mock Trial AI (LawCourtIQ) - Mock Trial AI Platform
 
 Mock Trial AI (LawCourtIQ) is an advanced AI-driven platform designed to revolutionize legal training and research by simulating real-world trial scenarios, providing predictive analytics, and enhancing legal decision-making. It leverages cutting-edge technology to offer a comprehensive tool for law firms, legal departments, and academic institutions.
 
+*** IMPORTANT NOTICE: Mock Trial AI (LawCourtIQ) is a registered copyright work (TXu 2-471-872). Advanced features (VR, analytics, trained models) are not included in this repository and remain proprietary. Unauthorized use or deployment of these modules without a commercial license is strictly prohibited.
+
 *** Key Features
 
 - Mock Trial Scenarios: Tailor-made simulations for various legal areas, including patent infringement and corporate law
