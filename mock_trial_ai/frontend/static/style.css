@@ -1,0 +1,167 @@
+/* Root variables for color scheme */
+:root {
+    --forest-green: #2C5530;
+    --orange-accent: #FF8C37;
+    --background: #FFFFFF;
+    --text-primary: #1E1E1E;
+}
+
+.main-header-container {
+    background: linear-gradient(to right, #f8f9fa 0%, #ffffff 100%);
+    padding: 1rem 2rem;
+    border-bottom: 1px solid rgba(44, 85, 48, 0.1);
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.logo-section img {
+    width: 110px;
+    height: auto;
+}
+
+.title-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.app-header {
+    color: var(--forest-green) !important;
+    font-size: 2.6rem !important;
+    font-weight: 700 !important;
+    line-height: 1.1 !important;
+    margin: 0 !important;
+    letter-spacing: -0.02em !important;
+    font-family: 'Arial', sans-serif !important;
+}
+
+.app-subheader {
+    color: var(--orange-accent) !important;
+    font-size: 0.9rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.08em !important;
+    opacity: 0.9;
+}
+
+.header-accent-bar {
+    height: 3px;
+    background: linear-gradient(90deg, 
+        var(--forest-green) 0%, 
+        var(--orange-accent) 100%
+    );
+    opacity: 0.7;
+}
+
+/* Hide default Streamlit header */
+[data-testid="stHeader"] {
+    display: none;
+}
+
+
+/* Main content area */
+.main .block-container {
+    max-width: 1200px;
+    padding: 2rem;
+}
+
+/* Button styling */
+.stButton button {
+    background-color: var(--forest-green) !important;
+    color: white !important;
+    border: none !important;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.stButton button:hover {
+    background-color: var(--orange-accent) !important;
+}
+
+/* Metrics styling */
+[data-testid="stMetricValue"] {
+    color: var(--forest-green) !important;
+    font-weight: 600;
+}
+
+/* Card/Container styling */
+.css-12w0qpk {  /* Streamlit container class */
+    background-color: white;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Chat message styling */
+.stChatMessage {
+    background-color: white;
+    border-left: 4px solid var(--forest-green);
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 5px;
+}
+
+.user-message div {
+    background-color: #e3f2fd !important;
+    margin-left: 2rem;
+}
+
+.assistant-message div {
+    background-color: #f5f5f5 !important;
+    margin-right: 2rem;
+}
+
+/* Form inputs styling */
+.stTextInput input, .stTextArea textarea {
+    border-color: var(--forest-green) !important;
+}
+
+/* Progress bar */
+.stProgress > div > div > div {
+    background-color: var(--forest-green) !important;
+}
+
+/* Success/Info messages */
+.stAlert {
+    background-color: rgba(44, 85, 48, 0.1) !important;
+    border-left-color: var(--forest-green) !important;
+}
+
+/* Tab styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 2rem;
+    background-color: var(--background);
+}
+
+.stTabs [data-baseweb="tab"] {
+    color: var(--text-primary) !important;
+}
+
+.stTabs [data-baseweb="tab-highlight"] {
+    background-color: var(--forest-green) !important;
+}
+
+/* Selectbox styling */
+.stSelectbox label {
+    color: var(--text-primary) !important;
+}
+
+/* Radio button styling */
+.stRadio label {
+    color: var(--text-primary) !important;
+}
+
+/* Sidebar styling */
+[data-testid="stSidebarNav"] {
+    background-color: var(--background);
+}
