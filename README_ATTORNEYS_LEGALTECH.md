@@ -160,6 +160,7 @@ Verify your LegalBERT model is saved to:
 └── special_tokens_map.json
 
 - Technology Stack
+
 *** Frontend
 
 •	Streamlit - Web application framework
