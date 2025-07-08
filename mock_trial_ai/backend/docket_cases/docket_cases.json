@@ -1,11 +1,7 @@
-"""
-Mock Trial AI Application (LawCourtIQ)
-Copyright (c) 2025 Frank Garcia
-
-This file is part of Mock Trial AI, dual-licensed under:
-- GNU Affero General Public License v3.0 (AGPL-3.0)
-- Commercial License (contact for terms)
-
-See LICENSE and COMMERCIAL_LICENSE for details.
-"""
-If you require a full sample copy of this file, reach out to me: mocktrialapp@gmail.com
+{
+  "_notice": "This JSON file is part of Mock Trial AI Application (LawCourtIQ)",
+  "_copyright": "Copyright (c) 2025 Frank Garcia",
+  "_license": "Dual licensed under AGPL-3.0 and Commercial License",
+  "_contact": "mocktrialapp@gmail.com",
+  "request_for_sample_file": "If you require a full sample copy of this file, reach out to me."
+}
