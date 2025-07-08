@@ -142,3 +142,7 @@ Commercial License Terms:
 
 •	Subject: "LawCourtIQ Commercial License Inquiry"
 
+* ADDITIONAL INFORMATION: see README_ATTORNEYS_LEGALTECH.md
+
+
+
