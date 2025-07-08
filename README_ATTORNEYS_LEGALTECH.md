@@ -1,8 +1,12 @@
 *** Overview ***
 
 Mock Trial AI is an enterprise-grade legal technology platform that combines multiple AI models, federal court data, and advanced analytics to deliver comprehensive mock trial analysis and case preparation tools.
-This is not designed as a fully autonomous AI solution out of the box. Instead, think of it as a training and augmentation tool; a foundation for building legal AI workflows. To perform effectively, the AI components must be trained with a clear understanding of legal processes and decision-making.
+
+This is not designed as a fully autonomous AI solution out of the box. Instead, think of it as a training and augmentation tool; a foundation for building legal AI workflows. To perform effectively, the AI components must be trained with a clear understanding of legal processes and decision-making (Attorney-Led Model Training).
+
 Once tailored to a specific area of law, the AI can handle most of the work required for mock trials and pre-trial preparation, dramatically reducing reliance on OpenAI/ClaudeAI APIs and minimizing the need for engineering personnel to set up and participate in mock trial environments.
+
+FOR ATTORNEYS (TAC) SEE SECTION BELOW TITLED "AI and Model Considerations (IMPORTANT!)"
 
 - Architecture
 
