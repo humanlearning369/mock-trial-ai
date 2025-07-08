@@ -28,3 +28,7 @@ See README.md for detailed setup instructions.
 * Contact
 
 For major changes or enterprise features, please contact mocktrialapp@gmail.com.
+
+* Additional Instructions: See README.md
+
+
