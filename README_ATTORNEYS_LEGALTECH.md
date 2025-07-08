@@ -148,10 +148,15 @@ from mocktrialanalyzer import MockTrialAnalyzer
 Verify your LegalBERT model is saved to:
 
 ./legalbertmt/
+
 ├── config.json
+
 ├── pytorch_model.bin
+
 ├── tokenizer.json
+
 ├── vocab.txt
+
 └── special_tokens_map.json
 
 - Technology Stack
