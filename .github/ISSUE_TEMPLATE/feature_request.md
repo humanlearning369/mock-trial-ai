@@ -1,20 +1,31 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: Suggest a new idea or enhancement for Mock Trial AI - Core Edition
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Note: This issue tracker is for the *Core Edition* of Mock Trial AI (LawCourtIQ).  
+Please do **not** submit feature requests for advanced modules (VR integrations, analytics dashboards, pretrained models, or proprietary components). These are private features covered under separate commercial licensing.  
 
-**Describe the solution you'd like**
+---
+
+Describe the feature you'd like
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+---
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Why is this important?
+Explain why this feature would add value to the project.
+
+---
+
+Additional context
+Add any other context, screenshots, or mockups about the feature request here.
+
+---
+
+Related issues (if any)
+Link to any related issues or pull requests.
