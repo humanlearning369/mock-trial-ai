@@ -1,3 +1,13 @@
+"""
+Mock Trial AI Application (LawCourtIQ)
+Copyright (c) 2025 Frank Garcia
+
+This file is part of Mock Trial AI, dual-licensed under:
+- GNU Affero General Public License v3.0 (AGPL-3.0)
+- Commercial License (contact for terms)
+
+See LICENSE and COMMERCIAL_LICENSE for details.
+"""
 from sqlalchemy import Column, Integer, String, Date, ForeignKey, DECIMAL, Boolean, JSON, DateTime
 from sqlalchemy.orm import relationship
 from app.db.base import Base
