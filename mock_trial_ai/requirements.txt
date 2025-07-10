@@ -101,7 +101,7 @@ toml==0.10.2
 torch==2.5.1+cu121
 torchaudio==2.5.1+cu121
 torchvision==0.20.1+cu121
-tornado==6.4.2
+tornado==6.5
 tqdm==4.67.1
 transformers==4.48.3
 typing_extensions==4.12.2
