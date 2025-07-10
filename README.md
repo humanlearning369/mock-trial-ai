@@ -4,6 +4,7 @@ AI-Powered Legal Case Analysis &amp; Mock Trial Preparation
 Mock Trial AI (LawCourtIQ) - Mock Trial AI Platform
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Forks](https://img.shields.io/github/forks/humanlearning369/mock-trial-ai.svg?style=social)](https://github.com/humanlearning369/mock-trial-ai/fork)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/framework-Streamlit-red.svg)](https://streamlit.io/)
 
