@@ -6,6 +6,8 @@ This is not designed as a fully autonomous AI solution out of the box. Instead, 
 
 Once tailored to a specific area of law, the AI can handle most of the work required for mock trials and pre-trial preparation, dramatically reducing reliance on OpenAI/ClaudeAI APIs and minimizing the need for engineering personnel to set up and participate in mock trial environments.
 
+*** DEMO: https://www.youtube.com/watch?v=EmvyrKVSbb0 ***
+
 FOR ATTORNEYS (TAC) SEE SECTION BELOW TITLED "AI and Model Considerations (IMPORTANT!)"
 
 - Architecture
