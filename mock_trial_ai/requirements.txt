@@ -58,7 +58,7 @@ pillow==10.4.0
 plotly==5.18.0
 pluggy==1.5.0
 propcache==0.2.1
-protobuf==4.25.6
+protobuf==4.25.8
 psutil==7.0.0
 psycopg2-binary==2.9.10
 py==1.11.0
