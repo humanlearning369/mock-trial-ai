@@ -10,6 +10,8 @@ Once tailored to a specific area of law, the AI can handle most of the work requ
 
 *** DEMO: https://www.youtube.com/watch?v=EmvyrKVSbb0 ***
 
+*** I don’t expect IT teams to figure this out alone; this was built for attorney-led training with engineering support as needed. I am available to help with the schema, API and pretrained library to get you started. ***
+
 FOR ATTORNEYS (TAC) SEE SECTION BELOW TITLED "AI and Model Considerations (IMPORTANT!)"
 
 - Architecture
