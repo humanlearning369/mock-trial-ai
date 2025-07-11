@@ -390,5 +390,7 @@ Professional support, training, and contract development are available for enter
 
 Mock Trial AI - Transforming Legal Practice with Artificial Intelligence
 
+NOTE: The Core Edition is provided for evaluation only. Full capabilities (pretrained models, ingestion APIs, schema) require direct collaboration with the creator. Reach out to mocktrialapp@gmail.com for access and guidance.
+
 ***** Star this repository if you find it useful!
 
