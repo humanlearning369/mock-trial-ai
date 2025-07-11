@@ -5,6 +5,8 @@ Mock Trial AI (LawCourtIQ) - Mock Trial AI Platform
 
 ****** The Core Edition has been cloned over 100 times by legal tech teams for evaluation. ******
 
+*** I don’t expect IT teams to figure this out alone; this was built for attorney-led training with engineering support as needed. I am available to help with the schema, API and pretrained library to get you started. ***
+
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Forks](https://img.shields.io/github/forks/humanlearning369/mock-trial-ai.svg?style=social)](https://github.com/humanlearning369/mock-trial-ai/fork)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
