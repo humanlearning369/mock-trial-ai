@@ -39,7 +39,26 @@ Mock Trial AI (LawCourtIQ) is an advanced AI-driven platform designed to revolut
 *** DEMO: https://www.youtube.com/watch?v=EmvyrKVSbb0 ***
 ***This video is provided for evaluation purposes only. Redistribution or reuse without permission is strictly prohibited ***
 
-NOTE: The Core Edition is provided for evaluation only. Full capabilities (pretrained models, ingestion APIs, schema) require direct collaboration with the creator. Reach out to mocktrialapp@gmail.com for access and guidance.
+NOTE: The Core Edition is provided for evaluation only. Full capabilities (pretrained models, ingestion APIs, schema) require direct collaboration with the creator. Reach out to mocktrialapp@gmail.com for access and guidance. This is an open-source demonstration framework (AGPL-3.0) intended for educational and evaluation purposes by legal technology teams.
+
+Critical Clarification: The GitHub repository contains no production security features and is not intended for use with confidential or privileged information. It's essentially a technical proof-of-concept showcasing UI components, architecture, and the concept of Mock Trials to pursue attorney-led AI training.
+
+For Production Use: Any deployment involving confidential legal documents would require:
+
+- A complete security audit by qualified professionals
+
+- On-premises or private cloud deployment options
+
+- Proper privilege and confidentiality controls
+
+- Compliance with your firm’s IT security policies
+
+This Core Edition is designed as a starting point for experimentation, with the expectation that law firms would adapt it for their own workflows. For real-world use, the pre-trained model "Legalbert" would need to be tuned per area of law under attorney supervision or via specialized agents.
+
+- The attorneys define what "relevance" and "strategy similarity" mean.
+- This happens during fine-tuning or when designing agent behaviors.
+
+****** I'd recommend having your IT/security team review the technical architecture if you're considering this type of solution for your practice.
 
 *** Key Features
 
